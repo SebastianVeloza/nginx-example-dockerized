@@ -1,6 +1,6 @@
 # nginx-example-dockerized
 Practica de dockerizar un nginx 
-
+[![Docker Compose Test](https://github.com/SebastianVeloza/nginx-example-dockerized/actions/workflows/docker-compose-test.yml/badge.svg?branch=main)](https://github.com/SebastianVeloza/nginx-example-dockerized/actions/workflows/docker-compose-test.yml) [![Test with Background Server](https://github.com/SebastianVeloza/nginx-example-dockerized/actions/workflows/test-with-background-server.yml/badge.svg)](https://github.com/SebastianVeloza/nginx-example-dockerized/actions/workflows/test-with-background-server.yml)
 ## Prerequisites
 
 Before running this project, make sure you have the following installed:
@@ -13,7 +13,7 @@ Before running this project, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/SebastianVeloza/nginx-example-dockerized.git
-cd nginx-nodejs-example-project
+cd nginx-example-dockerized
 ```
 
 2. Install the dependencies:
